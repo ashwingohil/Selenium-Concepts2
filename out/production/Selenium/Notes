@@ -1,0 +1,18 @@
+We have seen some classes of selenium api
+
+These are:
+
+Action class (interactions.Action)
+Actions class (interactions.Actions)
+By class
+WebDriver class
+WebElement class
+ChromeDriver class
+Firefox Class
+Point class
+
+
+Actions class is where you perfom actions on WebElements.
+Some of the methods practised here and are usefull are:
+Practise looking at the api documentation of Actions class and understand the methods out here
+Majorly all the methods are practised in this chapter and have a utility
